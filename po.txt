@@ -1,0 +1,12 @@
+<HTML>
+<HEAD> 
+<TITLE>INTR</TITLE> 
+<link rel="stylesheet" href="ok.css" type=text/css >
+
+</head>
+<BODY >
+<div class="contenedor">
+
+
+</BODY>
+</HTML>
